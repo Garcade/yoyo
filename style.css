@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: radial-gradient(#101820, #000);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.hero {
+  padding: 50px 20px;
+}
+.hero h1 {
+  font-size: 3em;
+  color: #00ff99;
+}
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 24px;
+  background: #00ff99;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.btn.secondary {
+  background: #fff;
+  color: #000;
+}
+.why-join {
+  margin: 40px 0;
+}
+footer {
+  padding: 20px;
+  font-size: 0.9em;
+  color: #aaa;
+}
